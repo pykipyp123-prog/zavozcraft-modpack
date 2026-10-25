@@ -1,16 +1,17 @@
 # Zavoz Craft Modpack
 
-Сборка **Zavoz Craft** для лаунчера Zavoz Craft.
+Официальная сборка **Zavoz Craft** для лаунчера Zavoz Craft.
 
 - Minecraft: **1.21.1**
-- Загрузчик: **NeoForge 21.1.248**
-- Версия сборки: **1.0.0**
+- Загрузчик: **NeoForge 21.1.256**
+- Версия сборки: **1.2.0**
+- Модов: **218** (202 скачиваются с Modrinth, 16 идут в архиве)
 
-Файл `modpack.mrpack` прикреплён к релизу **v1.0.0**.
+Файл `modpack.mrpack` прикреплён к релизу **v1.2.0**.
 
-Скачивать сборку вручную не нужно: лаунчер сам найдёт последний релиз, скачает `modpack.mrpack` и установит моды и конфиги. Миры и настройки игрока при обновлении сохраняются.
+Скачивать вручную ничего не нужно: лаунчер сам загрузит сборку и все моды. Этот файл нужен только для ручной установки или резервной копии.
 
 ## Ссылки
 
 - [Лаунчер](https://github.com/pykipyp123-prog/zavozcraft-launcher/releases/latest)
-- [Релизы сборки](https://github.com/pykipyp123-prog/zavozcraft-modpack/releases)
+- [Все версии сборки](https://github.com/pykipyp123-prog/zavozcraft-modpack/releases)
